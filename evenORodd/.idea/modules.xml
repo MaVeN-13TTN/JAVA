@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionalOperator/conditionalOperator.iml" filepath="$PROJECT_DIR$/conditionalOperator/conditionalOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dowhile/dowhile.iml" filepath="$PROJECT_DIR$/dowhile/dowhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evenORodd.iml" filepath="$PROJECT_DIR$/evenORodd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/for loop/for loop.iml" filepath="$PROJECT_DIR$/for loop/for loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gradingSystem/gradingSystem.iml" filepath="$PROJECT_DIR$/gradingSystem/gradingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ifElsse/ifElsse.iml" filepath="$PROJECT_DIR$/ifElsse/ifElsse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiplication table/multiplication table.iml" filepath="$PROJECT_DIR$/multiplication table/multiplication table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/priceList/priceList.iml" filepath="$PROJECT_DIR$/priceList/priceList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleIF/simpleIF.iml" filepath="$PROJECT_DIR$/simpleIF/simpleIF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stars/stars.iml" filepath="$PROJECT_DIR$/stars/stars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/while/while.iml" filepath="$PROJECT_DIR$/while/while.iml" />
+    </modules>
+  </component>
+</project>
